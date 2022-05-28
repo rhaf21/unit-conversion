@@ -9,12 +9,6 @@ html, body {
     background: linear-gradient(45deg, rgba(28,191,204,1) 0%, rgba(232,82,148,1) 100%);
 }
 
-@media only screen and (max-width: 600px) {
-  .section-box {
-      width:70%; 
-      margin-left:15%; 
-      margin-right:15%;
-}
 .section-box {
     display: flex;
     justify-content: center;
@@ -22,9 +16,9 @@ html, body {
     flex-direction: column;
     background: linear-gradient(45deg, rgba(28,191,204,1) 0%, rgba(232,82,148,1) 100%);
     box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
-    width:36%; 
-    margin-left:32%; 
-    margin-right:32%;
+    width:60%; 
+    margin-left:20%; 
+    margin-right:20%;
 }
 
 .title-box, .measurement-box { 
