@@ -11,7 +11,9 @@ html, body {
 
 @media only screen and (max-width: 600px) {
   .section-box {
-      max-width: 400px;
+      width:70%; 
+      margin-left:15%; 
+      margin-right:15%;
 }
 .section-box {
     display: flex;
